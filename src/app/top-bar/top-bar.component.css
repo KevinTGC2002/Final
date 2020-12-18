@@ -1,4 +1,12 @@
-
+.backgr{
+  background-color: pink;
+  width: 100%;
+  height: 100%;
+}
+.backgr img{
+  width: 150px;
+  height: 50px;
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
